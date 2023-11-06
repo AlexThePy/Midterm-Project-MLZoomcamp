@@ -1,7 +1,7 @@
 # Midterm-Project-MLZoomcamp
-In this project, I chose a dataset about mobile phone features so that I can predict their prices
+In this project, I chose a dataset about mobile phone features so that I can predict their prices.
 
-Link to project: https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price
+Link to dataset: https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price
 
 
 
