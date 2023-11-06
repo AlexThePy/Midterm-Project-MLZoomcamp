@@ -17,28 +17,28 @@ Source Information
 Source of Data:
 The dataset utilized in this project was synthesized by an advanced Large Language Model (LLM). It was programmatically generated to reflect plausible mobile phone specifications and their corresponding market prices. It is important to note that the data does not originate from real-world market research or direct manufacturer information.
 
-1.Purpose of Synthetic Data:
+1. Purpose of Synthetic Data:
 The use of an LLM-generated dataset served multiple purposes:
 
-2.Feasibility and Prototyping: It enabled the development and testing of the machine learning pipeline without the constraints of data acquisition costs and privacy concerns associated with real-world data.
+2. Feasibility and Prototyping: It enabled the development and testing of the machine learning pipeline without the constraints of data acquisition costs and privacy concerns associated with real-world data.
 
-3.Educational Value: The project illustrates the end-to-end process of a machine learning task, including data handling, model training, and deployment, which remains valid and educational regardless of the data origin.
+3. Educational Value: The project illustrates the end-to-end process of a machine learning task, including data handling, model training, and deployment, which remains valid and educational regardless of the data origin.
 
-4.Research and Experimentation: The synthetic dataset provided a controlled environment to explore the potential correlations and patterns that a machine learning model might learn and how it generalizes to data that mimics real-world distributions.
+4. Research and Experimentation: The synthetic dataset provided a controlled environment to explore the potential correlations and patterns that a machine learning model might learn and how it generalizes to data that mimics real-world distributions.
 
-5.Credibility and Limitations:While the LLM strives to produce realistic data based on patterns learned from vast text corpora, the synthetic nature of the dataset inherently comes with limitations:
+5. Credibility and Limitations:While the LLM strives to produce realistic data based on patterns learned from vast text corpora, the synthetic nature of the dataset inherently comes with limitations:
 
-6.Authenticity: The generated data may not accurately represent current market trends or specific brand pricing strategies.
+6. Authenticity: The generated data may not accurately represent current market trends or specific brand pricing strategies.
 
-7.Variability and Bias: The diversity of the dataset might be limited to the LLM's training data, and unexpected biases could be introduced.
+7. Variability and Bias: The diversity of the dataset might be limited to the LLM's training data, and unexpected biases could be introduced.
 
-8.Validation and Testing: The absence of true market validation means that the model's predictive performance, as evaluated on this dataset, does not guarantee similar results on real-world data
+8. Validation and Testing: The absence of true market validation means that the model's predictive performance, as evaluated on this dataset, does not guarantee similar results on real-world data
 
 
-9.Intended Use:
+9. Intended Use:
 The model and its findings should be considered a demonstration of machine learning techniques suitable for educational purposes and not as a basis for real-world business decisions or academic conclusions about the mobile phone market.
 
-10.Further Research:
+10. Further Research:
 For any production or research-oriented application, it is recommended to utilize verified datasets obtained from actual mobile phone sales data and market analysis to ensure the accuracy and relevance of the model's insights.
 
 
