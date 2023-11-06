@@ -46,13 +46,21 @@ For any production or research-oriented application, it is recommended to utiliz
 Description of Features
 
 • Brand: the manufacturer of the phone
+
 • Model: the name of the phone model
+
 • Storage (GB): the amount of storage space (in gigabytes) available on the phone
+
 • RAM (GB): the amount of RAM (in gigabytes) available on the phone
+
 • Screen Size (inches): the size of the phone's display screen in inches
+
 • Camera (MP): the megapixel count of the phone's main rear camera
+
 • Battery Capacity (mAh): the capacity of the phone's battery in milliampere hours
+
 • Price ($): the retail price of the phone in US dollars
+
 Each row represents a different mobile phone model. The data can be used to analyze pricing trends and compare the features and prices of different mobile phones.
 
 
