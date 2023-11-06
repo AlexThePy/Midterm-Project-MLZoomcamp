@@ -56,3 +56,11 @@ Description of Features
 Each row represents a different mobile phone model. The data can be used to analyze pricing trends and compare the features and prices of different mobile phones.
 
 
+INSTRUCTIONS ON HOW TO RUN THE CODE:
+
+-Download mobile_price.csv from this project
+-Install Jupyter Notebook (if you haven't already, you can install Anaconda which will install Jupyter Notebook as well)
+-Use the code from notebook.jpynb or script.py to run the code in a Jupyter Notebook (after opening Jupyter, File>New Notebook>Pyhton 3 (jpykernel)) and run the code
+-In the first cells of code you will see how the dataset is structured and the distribution of prices
+-Observe how I've used the Storage, Screen Size and Camera (MP) features to generate a histogram with Predictions vs actual distribution
+-The model was deployed with Flask using Jupyter Notebook, thus the reason for importing the ''Thread'' library. 
